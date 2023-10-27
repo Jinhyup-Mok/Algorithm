@@ -1,4 +1,4 @@
 # Algorithm
 Jinhyup Mok
-Algorithm Study - Programmers & BaekJoon
+Algorithm Study - Programmers & BaekJoon ...
 
